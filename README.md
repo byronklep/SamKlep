@@ -11,7 +11,7 @@ I am a full-stack developer from Houston, TX. I have a passion for all things te
 😄 Pronouns: ...
 ⚡ Fun fact: ...
 
-[![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=samklep)](https://github.com/samklep/github-readme-stats)
+![Samuel's  github stats](https://github-readme-stats.vercel.app/api?username=samklep&show_icons=true&theme=radical)
 
 <a href="https://github.com/samklep/cryptoNews">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=samklep&repo=cryptoNews" />
@@ -22,8 +22,6 @@ I am a full-stack developer from Houston, TX. I have a passion for all things te
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samklep)](https://github.com/samklep/github-readme-stats)
-
-![Samuel's  github stats](https://github-readme-stats.vercel.app/api?username=samklep&show_icons=true&theme=radical)
 
 <!--
 **SamKlep/SamKlep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
