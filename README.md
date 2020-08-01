@@ -5,13 +5,21 @@
 I am a full-stack developer from Houston, TX. I have a passion for all things tech and have been intrigued by it all my life-- especially the blockchain and cryptocurrency. I primarily work in Javascript, NodeJS and React but have recently started learning Python and Django. 
 
 🔭 I’m currently working on a social media app in Django.
+
 🌱 I’m currently learning Python.
+
 👯 I’m looking to collaborate on open source projects.
+
 🤔 I’m looking for help with finding work.
+
 💬 Ask me about ...
+
 📫 How to reach me: ...
+
 😄 Pronouns: ...
+
 ⚡ Fun fact: ...
+
 
 ![Samuel's  github stats](https://github-readme-stats.vercel.app/api?username=samklep&show_icons=true&theme=radical)
 
