@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamKlep&theme=hacker" />
 [![Header](https://raw.githubusercontent.com/SamKlep/<OWNER>/<OWNER>/readme_header.png "Header")](https://lavender-portfolio.herokuapp.com/)
 
 <!--
