@@ -1,9 +1,6 @@
 ### Hi there 👋
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamKlep&theme=hacker" />
 
-
-[![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=samklep)](https://github.com/samklep/github-readme-stats)
-
 ![Samuel's  github stats](https://github-readme-stats.vercel.app/api?username=samklep&show_icons=true&theme=radical)
 
 <!--
