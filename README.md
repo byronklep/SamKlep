@@ -16,7 +16,7 @@ I am a full-stack developer from Houston, TX. I have a passion for all things te
 
 📫 How to reach me: <a href="mailto:samklepdev@gmial.com">samklepdev@gmail.com</a>
 
-⚡ Fun fact: I have three cats and a Rottweiler. 
+⚡ Fun fact: I have three <strong>cats</strong> and a <strong>Rottweiler</strong>. 
 
 
 ![Samuel's  github stats](https://github-readme-stats.vercel.app/api?username=samklep&show_icons=true&theme=radical)
