@@ -12,7 +12,7 @@ I am a full-stack developer from Houston, TX. I have a passion for all things te
 
 🤔 I’m looking for help with <strong>AI / Machine Learning</strong>.
 
-💬 Ask me about running <strong>Tensorflow</stong> on a <strong>Raspberry Pi</strong>.
+💬 Ask me about running <strong>Tensorflow</strong> on a <strong>Raspberry Pi</strong>.
 
 📫 How to reach me: <a href="mailto:samklepdev@gmial.com">samklepdev@gmail.com</a>
 
