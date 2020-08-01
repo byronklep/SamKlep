@@ -4,19 +4,19 @@
 
 I am a full-stack developer from Houston, TX. I have a passion for all things tech and have been intrigued by it all my life-- especially the blockchain and cryptocurrency. I primarily work in Javascript, NodeJS and React but have recently started learning Python and Django. 
 
-🔭 I’m currently working on a social media app in Django.
+🔭 I’m currently working on a social media app in <strong>Django</strong>.
 
-🌱 I’m currently learning Python.
+🌱 I’m currently learning <strong>Python</strong>.
 
-👯 I’m looking to collaborate on open source projects.
+👯 I’m looking to collaborate on <strong>open source projects</strong>.
 
-🤔 I’m looking for help with finding work.
+🤔 I’m looking for help with <strong>AI / Machine Learning</strong>.
 
-💬 Ask me about ...
+💬 Ask me about running <strong>Tensorflow</stong> on a <strong>Raspberry Pi</strong>.
 
-📫 How to reach me: ...
+📫 How to reach me: <a href="mailto:samklepdev@gmial.com">samklepdev@gmail.com</a>
 
-⚡ Fun fact: ...
+⚡ Fun fact: I have three cats and a Rottweiler. 
 
 
 ![Samuel's  github stats](https://github-readme-stats.vercel.app/api?username=samklep&show_icons=true&theme=radical)
