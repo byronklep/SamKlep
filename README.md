@@ -1,8 +1,10 @@
 ### Hi there 👋
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamKlep&theme=hacker" />
-[![Header](https://raw.githubusercontent.com/SamKlep/<OWNER>/<OWNER>/readme_header.png "Header")](https://lavender-portfolio.herokuapp.com/)
 
-![](https://img.shields.io/badge/Technologies-&Tools-informational?style=flat&logo=tor&logoColor=white&color=2bbc8a)
+
+[![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=samklep)](https://github.com/samklep/github-readme-stats)
+
+![Samuel's  github stats](https://github-readme-stats.vercel.app/api?username=samklep&show_icons=true&theme=radical)
 
 <!--
 **SamKlep/SamKlep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
