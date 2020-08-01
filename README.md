@@ -1,4 +1,6 @@
-### Hello. My name is Samuel Klepper 🤠 💻 🔆
+
+# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+## My name is Samuel Klepper
 
 I am a full-stack developer from Houston, TX. I have a passion for all things tech and have been intrigued by it all my life-- especially the blockchain and cryptocurrency. I primarily work in Javascript, NodeJS and React but have recently started learning Python and Django. 
 
