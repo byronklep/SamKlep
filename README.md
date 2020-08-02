@@ -21,22 +21,6 @@ I am a full-stack developer from Houston, TX. I have a passion for all things te
 
 ![Samuel's  github stats](https://github-readme-stats.vercel.app/api?username=samklep&show_icons=true&theme=radical)
 
-<a href="https://github.com/samklep/cryptoNews">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=samklep&repo=cryptoNews" />
-</a>
-
-<a href="https://github.com/samklep/sensor">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=samklep&repo=sensor" />
-</a>
-
-<a href="https://github.com/samklep/react-portfolio">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=samklep&repo=react-portfolio" />
-</a>
-
-<a href="https://github.com/samklep/contactKeeper">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=samklep&repo=contactKeeper" />
-</a>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samklep&show_icons=true&theme=radical)](https://github.com/samklep/github-readme-stats)
 
 
