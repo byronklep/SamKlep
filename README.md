@@ -10,7 +10,7 @@ I am a full-stack developer from Houston, TX. I have a passion for all things te
 
 👯 I’m looking to collaborate on <strong>open source projects</strong>.
 
-🤔 I’m looking for help with finding<strong>WORK</strong>.
+🤔 I’m looking for help with finding<strong> WORK</strong>.
 
 💬 Ask me about running <strong>Tensorflow</strong> on a <strong>Raspberry Pi</strong>.
 
