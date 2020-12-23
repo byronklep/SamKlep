@@ -2,21 +2,17 @@
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 ## My name is Samuel Klepper
 
-I am a full-stack developer from Houston, TX. I have a passion for all things tech and have been intrigued by it all my life-- especially the blockchain and cryptocurrency. I primarily work in Javascript, NodeJS and React but have recently started learning Python and Django. 
+I am a full-stack developer from Houston, TX. I have a passion for all things tech and have been intrigued by it all my life. I primarily work in Javascript, NodeJS and React, but have recently started dabbling with Python and Django-- which I really love!
 
-🔭 I’m currently working on a VR project in <strong>React360</strong>.
+🔭 I’m currently working on a Demolition company website in <strong>React</strong>.
 
-🌱 I’m currently learning <strong>Python</strong>.
+🌱 I’m currently learning <strong>Python & Django</strong>.
 
-👯 I’m looking to collaborate on <strong>open source projects</strong>.
-
-🤔 I’m looking for help with finding<strong> WORK</strong>.
-
-💬 Ask me about running <strong>Tensorflow</strong> on a <strong>Raspberry Pi</strong>.
+💬 Ask me about running <strong>OpenCV</strong> and <strong>Object Detection</strong>  on a <strong>Raspberry Pi</strong>.
 
 📫 How to reach me: <a href="mailto:samklepdev@gmial.com">samklepdev@gmail.com</a>
 
-⚡ Fun fact: I have three <strong>cats</strong> and a <strong>Rottweiler</strong>. 
+⚡ Fun fact: <strong>2020</strong> is now a <strong>verb</strong>. 
 
 
 ![Samuel's  github stats](https://github-readme-stats.vercel.app/api?username=samklep&show_icons=true&theme=radical)
