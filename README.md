@@ -1,12 +1,12 @@
 
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-## My name is Samuel Klepper
+## My name is Sam Klepper
 
-I am a full-stack developer from Houston, TX. I have a passion for all things tech and have been intrigued by it all my life. I primarily work in Javascript, NodeJS and React, but have recently started dabbling with Python and Django-- which I really love!
+I am a full-stack developer from Houston, TX. I have a passion for all things tech and have been intrigued by it all my life-- especially cryptocrrency! I primarily work in Javascript, NodeJS and React, but have recently started dabbling with Python and Django-- to get a feel of web development in other languages.
 
-🔭 I’m currently working on a Demolition company website in <strong>React</strong>.
+🔭 I’m currently working on a Demolition company's website in <strong>React</strong>.
 
-🌱 I’m currently learning <strong>Python & Django</strong>.
+🌱 I’m currently learning <strong>Server Side Rendering</strong>.
 
 💬 Ask me about running <strong>OpenCV</strong> and <strong>Object Detection</strong>  on a <strong>Raspberry Pi</strong>.
 
