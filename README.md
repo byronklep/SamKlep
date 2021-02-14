@@ -13,19 +13,12 @@ I am a full-stack developer from Houston, TX. I have a passion for all things te
 📫 How to reach me: <a href="mailto:samklepdev@gmial.com">samklepdev@gmail.com</a>
 
 
-![Samuel's  github stats](https://github-readme-stats.vercel.app/api?username=samklep&show_icons=true&theme=cobalt)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samklep&show_icons=true&theme=cobalt)](https://github.com/samklep/github-readme-stats)
-
-
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=samklep&show_icons=true&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=samklep&show_icons=true&theme=flag-india" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samklep&show_icons=true&theme=cobalt)](https://github.com/samklep/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samklep&show_icons=true&theme=flag-india)](https://github.com/samklep/github-readme-stats" />
 </a>
-
-[![Samuel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samklep)](https://github.com/samklep/github-readme-stats)
 
 <!--
 **SamKlep/SamKlep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
