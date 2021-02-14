@@ -18,11 +18,11 @@ I am a full-stack developer from Houston, TX. I have a passion for all things te
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samklep&show_icons=true&theme=cobalt)](https://github.com/samklep/github-readme-stats)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samklep&repo=github-readme-stats" />
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=samklep&show_icons=true&theme=cobalt" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samklep&repo=convoychat" />
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samklep&show_icons=true&theme=cobalt)](https://github.com/samklep/github-readme-stats" />
 </a>
 
 <!--
