@@ -4,20 +4,18 @@
 
 I am a full-stack developer from Houston, TX. I have a passion for all things tech and have been intrigued by it all my life-- especially cryptocrrency! I primarily work in Javascript, NodeJS and React, but have recently started dabbling with Python and Django-- to get a feel of web development in other languages.
 
-🔭 I’m currently working on a Demolition company's website in <strong>React</strong>.
+👔 I’m currently working on a Crypto swapping app in <strong>React</strong>.
 
-🌱 I’m currently learning <strong>Server Side Rendering</strong>.
+📈 I’m currently learning <strong>3js</strong>.
 
 💬 Ask me about running <strong>OpenCV</strong> and <strong>Object Detection</strong>  on a <strong>Raspberry Pi</strong>.
 
 📫 How to reach me: <a href="mailto:samklepdev@gmial.com">samklepdev@gmail.com</a>
 
-⚡ Fun fact: <strong>2020</strong> is now a <strong>verb</strong>. 
 
+![Samuel's  github stats](https://github-readme-stats.vercel.app/api?username=samklep&show_icons=true&theme=cobalt)
 
-![Samuel's  github stats](https://github-readme-stats.vercel.app/api?username=samklep&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samklep&show_icons=true&theme=radical)](https://github.com/samklep/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samklep&show_icons=true&theme=cobalt)](https://github.com/samklep/github-readme-stats)
 
 
 <!--
