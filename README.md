@@ -2,7 +2,7 @@
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 ## My name is Sam Klepper
 
-I am a full-stack developer from Houston, TX. I have a passion for all things tech and have been intrigued by it all my life-- especially cryptocrrency! I primarily work in Javascript, NodeJS and React, but have recently started dabbling with Python and Django-- to get a feel of web development in other languages.
+I am a full-stack developer from Houston, TX. I have a passion for all things tech and have been intrigued by it all my life! I primarily work in Javascript, NodeJS and React, but have recently started dabbling with Python and Django-- to get a feel of web development in other languages.
 
 👔 I’m currently working on a Crypto swapping app in <strong>React</strong>.
 
