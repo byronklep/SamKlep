@@ -10,7 +10,7 @@ I am a full-stack developer from Houston, TX. I have a passion for all things te
 
 💬 Ask me about running <strong>OpenCV</strong> and <strong>Object Detection</strong>  on a <strong>Raspberry Pi</strong>.
 
-📫 How to reach me: <a href="mailto:samklepdev@gmial.com">samklepdev@gmail.com</a>
+📫 How to reach me: <a href="mailto:sam@samklepper.com">sam@samklepper.com</a>
 
 
 <a href="#">
